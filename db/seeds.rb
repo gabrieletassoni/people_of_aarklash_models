@@ -1,0 +1,1 @@
+puts "Seeding Data into DB from people_of_aarklash_models"
